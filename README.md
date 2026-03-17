@@ -3,6 +3,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/peasytools/peasy-audio-go.svg)](https://pkg.go.dev/github.com/peasytools/peasy-audio-go)
 [![Go Report Card](https://goreportcard.com/badge/github.com/peasytools/peasy-audio-go)](https://goreportcard.com/report/github.com/peasytools/peasy-audio-go)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://agentgif.com/badge/github/peasytools/peasy-audio-go/stars.svg)](https://github.com/peasytools/peasy-audio-go)
 
 Go client for the [PeasyAudio](https://peasyaudio.com) API — analyze BPM, calculate bitrate, and convert audio formats. Built with `net/http`, `encoding/json`, and zero external dependencies.
 
