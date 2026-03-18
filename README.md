@@ -12,7 +12,7 @@ Built from [PeasyAudio](https://peasyaudio.com), a comprehensive audio toolkit o
 > **Try the interactive tools at [peasyaudio.com](https://peasyaudio.com)** — [Audio BPM Analyzer](https://peasyaudio.com/audio/audio-bpm/), [Audio Frequency Calculator](https://peasyaudio.com/audio/audio-freq/), [Audio File Size Calculator](https://peasyaudio.com/audio/audio-filesize/), and more.
 
 <p align="center">
-  <img src="demo.gif" alt="peasy-audio-go demo — audio BPM analysis and format conversion tools in Go terminal" width="800">
+  <a href="https://agentgif.com/XzDCpACo"><img src="https://media.agentgif.com/XzDCpACo.gif" alt="peasy-audio-go demo — audio BPM analysis and format conversion tools in Go terminal" width="800"></a>
 </p>
 
 ## Table of Contents
